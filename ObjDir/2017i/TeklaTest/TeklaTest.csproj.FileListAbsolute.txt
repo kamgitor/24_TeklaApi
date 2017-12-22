@@ -1,0 +1,33 @@
+K:\ProjektyC#\TeklaTest\TeklaTest\bin\Debug\TeklaTest.exe.config
+K:\ProjektyC#\TeklaTest\TeklaTest\bin\Debug\TeklaTest.exe
+K:\ProjektyC#\TeklaTest\TeklaTest\bin\Debug\TeklaTest.pdb
+K:\ProjektyC#\TeklaTest\TeklaTest\bin\Debug\Tekla.Application.Library.dll
+K:\ProjektyC#\TeklaTest\TeklaTest\bin\Debug\Tekla.Structures.Analysis.dll
+K:\ProjektyC#\TeklaTest\TeklaTest\bin\Debug\Tekla.Structures.Catalogs.dll
+K:\ProjektyC#\TeklaTest\TeklaTest\bin\Debug\Tekla.Structures.Datatype.dll
+K:\ProjektyC#\TeklaTest\TeklaTest\bin\Debug\Tekla.Structures.Dialog.dll
+K:\ProjektyC#\TeklaTest\TeklaTest\bin\Debug\Tekla.Structures.dll
+K:\ProjektyC#\TeklaTest\TeklaTest\bin\Debug\Tekla.Structures.Drawing.dll
+K:\ProjektyC#\TeklaTest\TeklaTest\bin\Debug\Tekla.Structures.Model.dll
+K:\ProjektyC#\TeklaTest\TeklaTest\bin\Debug\Tekla.Structures.Plugins.dll
+K:\ProjektyC#\TeklaTest\TeklaTest\bin\Debug\Akit5.dll
+K:\ProjektyC#\TeklaTest\TeklaTest\bin\Debug\Ionic.Zip.dll
+K:\ProjektyC#\TeklaTest\TeklaTest\bin\Debug\Mono.Cecil.dll
+K:\ProjektyC#\TeklaTest\TeklaTest\bin\Debug\Tekla.Technology.MsgLib.dll
+K:\ProjektyC#\TeklaTest\TeklaTest\bin\Debug\Tekla.Technology.Serialization.dll
+K:\ProjektyC#\TeklaTest\TeklaTest\bin\Debug\Tekla.Technology.Scripting.dll
+K:\ProjektyC#\TeklaTest\TeklaTest\bin\Debug\Tekla.Technology.Scripting.Plugins.dll
+K:\ProjektyC#\TeklaTest\ObjDir\2017i\TeklaTest\TeklaTest.csprojResolveAssemblyReference.cache
+K:\ProjektyC#\TeklaTest\ObjDir\2017i\TeklaTest\MainWindow.g.cs
+K:\ProjektyC#\TeklaTest\ObjDir\2017i\TeklaTest\App.g.cs
+K:\ProjektyC#\TeklaTest\ObjDir\2017i\TeklaTest\TeklaTest_MarkupCompile.cache
+K:\ProjektyC#\TeklaTest\ObjDir\2017i\TeklaTest\TeklaTest_MarkupCompile.lref
+K:\ProjektyC#\TeklaTest\ObjDir\2017i\TeklaTest\MainWindow.baml
+K:\ProjektyC#\TeklaTest\ObjDir\2017i\TeklaTest\TeklaTest.g.resources
+K:\ProjektyC#\TeklaTest\ObjDir\2017i\TeklaTest\TeklaTest.Properties.Resources.resources
+K:\ProjektyC#\TeklaTest\ObjDir\2017i\TeklaTest\TeklaTest.csproj.GenerateResource.Cache
+K:\ProjektyC#\TeklaTest\ObjDir\2017i\TeklaTest\TeklaTest.exe
+K:\ProjektyC#\TeklaTest\ObjDir\2017i\TeklaTest\TeklaTest.pdb
+k:\ProjektyC#\24 TeklaApi\TeklaTest\bin\Debug\TeklaTest.exe.config
+k:\ProjektyC#\24 TeklaApi\ObjDir\2017i\TeklaTest\TeklaTest.exe
+k:\ProjektyC#\24 TeklaApi\ObjDir\2017i\TeklaTest\TeklaTest.pdb
